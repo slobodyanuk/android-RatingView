@@ -11,6 +11,8 @@ public class RatingUtils {
 
         int countSum = countOf1 + countOf2 + countOf3 + countOf4 + countOf5;
 
+        if (countSum <= 0) return 0.0f;
+
         return (float) (countOf1 + countOf2 * 2 + countOf3 * 3 + countOf4 * 4 + countOf5 * 5) / countSum;
     }
 
