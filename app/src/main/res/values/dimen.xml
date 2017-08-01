@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="barContainerPadding">10dp</dimen>
+    <dimen name="barPadding">1dp</dimen>
+    <dimen name="textPadding">5dp</dimen>
+
+</resources>

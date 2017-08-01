@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RatingView</string>
+
+    <string name="reviews">Reviews: %s</string>
+</resources>

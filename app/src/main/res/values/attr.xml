@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MaterialRatingView">
+
+        <attr name="barColor" format="color"/>
+        <attr name="drawableStar" format="integer"/>
+        <attr name="numbersColor" format="color"/>
+        <attr name="totalCountColor" format="color"/>
+        <attr name="barWidth" format="float"/>
+
+        <attr name="barContainerPadding" format="dimension"/>
+        <attr name="barPadding" format="dimension"/>
+
+
+    </declare-styleable>
+
+</resources>
