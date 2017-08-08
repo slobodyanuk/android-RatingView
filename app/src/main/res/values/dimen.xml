@@ -5,4 +5,6 @@
     <dimen name="barPadding">1dp</dimen>
     <dimen name="textPadding">5dp</dimen>
 
+    <dimen name="numbersSize">16sp</dimen>
+
 </resources>

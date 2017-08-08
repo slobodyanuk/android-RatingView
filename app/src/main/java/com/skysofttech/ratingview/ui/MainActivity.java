@@ -16,8 +16,8 @@ public class MainActivity extends AppCompatActivity {
         MaterialRatingView ratingView = findViewById(R.id.ratingView);
 
         ratingView.newBuilder()
-                .setCountStars(new int[]{433, 650, 12, 200, 0})
+                .setCountStars(new long[]{99999, 24141, 7480, 400, 5484})
                 .setAnimated(true)
-                .build();
+                .invalidate();
     }
 }

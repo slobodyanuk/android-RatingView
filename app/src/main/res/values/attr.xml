@@ -6,6 +6,7 @@
         <attr name="barColor" format="color"/>
         <attr name="drawableStar" format="integer"/>
         <attr name="numbersColor" format="color"/>
+        <attr name="numbersSize" format="dimension"/>
         <attr name="totalCountColor" format="color"/>
         <attr name="barWidth" format="float"/>
 
